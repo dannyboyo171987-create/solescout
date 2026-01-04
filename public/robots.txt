@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap:https://solescout.co.uk/sitemap.xml
-
