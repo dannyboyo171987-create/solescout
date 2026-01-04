@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap:https://solescout.co.uk/sitemap.xml
-git add.
-git commit -m "Add robots.txt"
-git push
+
